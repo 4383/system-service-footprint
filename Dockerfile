@@ -21,4 +21,5 @@ ENV TARGET=127.0.0.1
 CMD \
     service tor start && \
     service polipo start && \
-    proxychains nmap -A -T4 $TARGET
+    nmap -A -T4 $TARGET
+    #proxychains nmap -A -T4 $TARGET
