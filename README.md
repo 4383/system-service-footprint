@@ -1,7 +1,7 @@
 # System Footprint Scanner
 Security footprint system scanner
 
-Security scanner footprint (nmap) --torified-- and dockerized
+Security scanner footprint (nmap) ~~torified~~ and dockerized
 * Free software: GNU General Public License v3
 
 # Usage
